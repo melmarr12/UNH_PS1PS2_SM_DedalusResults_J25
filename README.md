@@ -151,3 +151,5 @@ A description of each data file is given below:
 3. nondim_flow_pressure_HTh.py
 
     This software function file calculates various hydrodynamic parameters needed to nondimensionalize the pressure record before solving the set of differential equations.
+
+DOI: v1.0.0: [https://doi.org/10.5281/zenodo.19261991](https://doi.org/10.5281/zenodo.19261991)  
